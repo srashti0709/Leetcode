@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/srashti0709/Leetcode/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/srashti0709/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
