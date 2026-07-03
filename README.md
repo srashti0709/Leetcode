@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Counting
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/srashti0709/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Simulation
 |  |
 | ------- |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Math
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
