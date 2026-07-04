@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/srashti0709/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/srashti0709/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
