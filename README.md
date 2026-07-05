@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/srashti0709/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
+| [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -67,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
