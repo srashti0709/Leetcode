@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -85,5 +87,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srashti0709/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
