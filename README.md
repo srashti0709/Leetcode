@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/srashti0709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srashti0709/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/srashti0709/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/srashti0709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/srashti0709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srashti0709/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
