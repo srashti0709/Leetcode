@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/srashti0709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/srashti0709/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/srashti0709/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srashti0709/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
