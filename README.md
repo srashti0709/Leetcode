@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/srashti0709/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/srashti0709/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/srashti0709/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/srashti0709/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/srashti0709/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Combinatorics
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/srashti0709/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/srashti0709/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
