@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/srashti0709/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srashti0709/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srashti0709/Leetcode/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/srashti0709/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/srashti0709/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/srashti0709/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/srashti0709/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/srashti0709/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srashti0709/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
