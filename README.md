@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/srashti0709/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/srashti0709/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/srashti0709/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srashti0709/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2963-count-the-number-of-good-partitions](https://github.com/srashti0709/Leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/srashti0709/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/srashti0709/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/srashti0709/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/srashti0709/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/srashti0709/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/srashti0709/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/srashti0709/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Database
