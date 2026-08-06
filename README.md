@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srashti0709/Leetcode/tree/master/0015-3sum) |
+| [0086-partition-list](https://github.com/srashti0709/Leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/srashti0709/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srashti0709/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srashti0709/Leetcode/tree/master/0189-rotate-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srashti0709/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/srashti0709/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/srashti0709/Leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/srashti0709/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/srashti0709/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/srashti0709/Leetcode/tree/master/0328-odd-even-linked-list) |
