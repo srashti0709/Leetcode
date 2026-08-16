@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/srashti0709/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0389-find-the-difference](https://github.com/srashti0709/Leetcode/tree/master/0389-find-the-difference) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srashti0709/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/srashti0709/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/srashti0709/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/srashti0709/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/srashti0709/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/srashti0709/Leetcode/tree/master/0389-find-the-difference) |
 | [0523-continuous-subarray-sum](https://github.com/srashti0709/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srashti0709/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/srashti0709/Leetcode/tree/master/0015-3sum) |
+| [0389-find-the-difference](https://github.com/srashti0709/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/srashti0709/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/srashti0709/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/srashti0709/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/srashti0709/Leetcode/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
