@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/srashti0709/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srashti0709/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/srashti0709/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/srashti0709/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/srashti0709/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Hash Table
 |  |
